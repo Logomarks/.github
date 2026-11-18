@@ -1,6 +1,6 @@
 # Logomarks
 
-5,500+ free geometric logomarks at [logomarks.ai](https://logomarks.ai). They're CC0: use them for anything, no credit needed.
+5,500+ free geometric logomarks at [logomarks.ai](https://logomarks.ai), free for any use, commercial included.
 
 ## Packages
 
@@ -16,4 +16,6 @@ The libraries behind the set, on npm:
 
 ## Licence
 
-The marks are CC0. The libraries are MIT, © ArrayPress Limited.
+The marks use the [Logomarks Licence](https://logomarks.ai/licence): free for any use, commercial included. Don't resell or redistribute the set.
+
+The libraries are MIT, © ArrayPress Limited.
